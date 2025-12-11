@@ -6,7 +6,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: sandrpp/sandrowebsite
+  IMAGE_NAME: sandrpp/sandro-website
 
 jobs:
   build-and-push:
