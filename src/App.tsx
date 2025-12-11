@@ -20,14 +20,14 @@ function App() {
       <h1>Vite + React</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}! WUU
+          count is {count}!
         </button>
         <p>
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
       </div>
       <p className="read-the-docs">
-        Welcome to my site on the world wide web
+        Welcome to my site on the world wide web. prudi ist toll
       </p>
         <Test id={2}/>
     </>
